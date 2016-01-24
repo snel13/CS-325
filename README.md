@@ -1,2 +1,1 @@
-# CS-325
-Analysis of Algorithms
+# max-sum-subarray
